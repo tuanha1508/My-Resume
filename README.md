@@ -1,0 +1,1 @@
+This repository houses my up-to-date resume, showcasing my skills and experience in software engineering. I've crafted it with a focus on clear and informative layout. Feel free to explore the different formats provided and adapt them to your own needs.  I welcome any feedback or suggestions for improvement!
